@@ -1,5 +1,3 @@
-# CSCW26_ZP
-
 # Overview
 This repository contains two anonymized and sampled datasets for research and analysis purposes. The datasets have been processed to ensure privacy and reduce their size for easier handling. The files included are:
 Douyin_data_anonymized_sampled.csv
