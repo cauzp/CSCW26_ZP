@@ -1,5 +1,5 @@
-# Overview
-This repository contains two anonymized and sampled datasets for CSCW 2026 Paper. The datasets have been processed to ensure privacy and reduce their size for checking.
+# Platformed Prisms: Cross-Cultural Audience Reactions to IShowSpeed's China Tour on YouTube and Douyin
+This repository contains two anonymized and sampled datasets for ACM CSCW 2026 Paper. The datasets have been processed to ensure privacy and reduce their size for checking.
 
 # Key Features
 
